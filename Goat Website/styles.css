@@ -1,0 +1,74 @@
+header {
+  text-shadow:
+      2px 2px 0 #000, 
+      -2px -2px 0 #000,
+      2px -2px 0 #000,
+      -2px 2px 0 #000;
+      text-align: center;
+}
+h1{font-size: 3em;
+  color: wheat;}
+  h2
+   {color: ivory;
+    text-align:center;
+  }
+
+h3{color: ivory; 
+   text-shadow:
+  2px 2px 0 #000, 
+  -2px -2px 0 #000,
+  2px -2px 0 #000,
+  -2px 2px 0 #000;
+text-align:center;}
+  #main-image {
+    border-radius: 50%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+
+  .Beginning, .Middle{
+    text-align:center;
+    text-shadow:
+    1px 1px 0 #000, 
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000;
+    color:antiquewhite;}
+
+
+  .End{text-align:center;
+        text-shadow:
+        1px 1px 0 #000, 
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000;
+        color:antiquewhite;
+      margin: top 20px;
+    margin-left:auto;}
+
+  .inline-image1 {
+    height:250px;
+    width: auto;
+     display:block;
+     float:left;
+     margin: 0px 0px 15px 15px;
+     object-position:bottom;
+    }
+
+  .inline-image2 {
+    height:250px;
+    width:auto;
+      display:block;
+      float:right;
+      margin: 0px 0px 15px 15px;
+      object-position:bottom;
+     }
+
+    .sources{
+      text-align:center;
+      font-weight:bolder;
+      color:wheat;
+    }
+  
